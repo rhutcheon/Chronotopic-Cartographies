@@ -1,0 +1,11 @@
+digraph {
+	A [label="Charles Dickens"]
+	B [label="Little Doritt"]
+	C [label="Bleak House"]
+	D [label="A Tale of Two Cities"]
+	E [label="Oliver Twist"]
+	A -> B [label=wrote]
+	A -> C [label=wrote]
+	A -> D [label=wrote]
+	A -> E [label=wrote]
+}
